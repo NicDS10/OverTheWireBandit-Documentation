@@ -1,2 +1,2 @@
 # OverTheWireBandit-Documentation
- The documentation of my Bandit progresses, learning the linux terminal
+In approximately a week I've completed the OverTheWire Bandit's online course, and I've documented everything on Obsidian to remember the Linux terminal commands in the next months or when I will read again these notes. Every level is structured in a three sections: one where i list all of the commands I've used, one for the procedure and one for the password of the next level. I've also created a file called Over the Wire (Bandit) where I explain all of the commands I've ever used, and some usefull terminology. I hope that this repository can help whoever is stuck and wants some hints or the solution.
